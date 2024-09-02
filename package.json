@@ -1,0 +1,24 @@
+{
+  "name": "try-bootstrap-vue-next-modals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@bootstrap-vue-next/nuxt": "^0.24.11",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "bootstrap-vue-next": "^0.24.11",
+    "nuxt": "^3.12.3",
+    "unplugin-vue-components": "^0.27.2",
+    "vite": "^5.3.3"
+  },
+  "dependencies": {
+    "@vue/compat": "^3.4.32",
+    "bootstrap": "^5.3.3",
+    "vue": "^3.4.38",
+    "vuex": "^4.1.0"
+  },
+  "packageManager": "pnpm@9.9.0+sha256.7a4261e50d9a44d9240baf6c9d6e10089dcf0a79d0007f2a26985a6927324177"
+}
